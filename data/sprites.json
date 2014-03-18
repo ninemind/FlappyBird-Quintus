@@ -1,0 +1,105 @@
+{
+	"title": {
+		"sx": 114,
+		"sy": 78,
+		"tilew": 89,
+		"tileh": 24
+	},
+    "play": {
+        "sx": 114,
+		"sy": 103,
+		"tilew": 52,
+		"tileh": 29
+    },
+    "tap": {
+        "sx": 52,
+        "sy": 0,
+        "tilew": 57,
+        "tileh": 49
+    },
+    "floor": {
+        "sx": 27,
+		"sy": 0,
+		"tilew": 14,
+		"tileh": 11
+    },
+    "yellow_bird": {
+        "sx": 0,
+        "sy": 16,
+        "tilew": 17,
+        "tileh": 12,
+        "frames": 3
+    },
+    "blue_bird": {
+        "sx": 0,
+        "sy": 29,
+        "tilew": 17,
+        "tileh": 12,
+        "frames": 3
+    },
+    "red_bird": {
+        "sx": 0,
+        "sy": 42,
+        "tilew": 17,
+        "tileh": 12,
+        "frames": 3
+    },
+    "get_ready": {
+        "sx": 110,
+        "sy": 0,
+        "tilew": 92,
+        "tileh": 25
+    },
+    "large_number": {
+        "sx": 89,
+        "sy": 59,
+        "tilew": 12,
+        "tileh": 18,
+        "frames": 10
+    },
+    "game_over": {
+        "sx": 110,
+        "sy": 26,
+        "tilew": 96,
+        "tileh": 21
+    },
+    "scoreboard": {
+        "sx": 0,
+        "sy": 78,
+        "tilew": 113,
+        "tileh": 57
+    },
+    "medal": {
+        "sx": 0,
+        "sy": 55,
+        "tilew": 22,
+        "tileh": 22,
+        "frames": 4
+    },
+    "small_number": {
+        "sx": 110,
+        "sy": 48,
+        "tilew": 7,
+        "tileh": 10,
+        "frames": 10
+    },
+    "new": {
+        "sx": 93,
+        "sy": 51,
+        "tilew": 16,
+        "tileh": 7
+    },
+    "sparkle": {
+        "sx": 181,
+        "sy": 52,
+        "tilew": 5,
+        "tileh": 5,
+        "frames": 3
+    },
+    "pipe_cap": {
+        "sx": 0,
+        "sy": 0,
+        "tilew": 26,
+        "tileh": 13
+    }
+}
