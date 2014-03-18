@@ -1,7 +1,7 @@
 FlappyBird-HTML5
 ================
 
-A FlappyBird remake using the Quintus HTML5 gaming engine.  Play it [here](http://ninemind.github.io/FlappyBird-HTML5). 
+A FlappyBird remake using the Quintus HTML5 gaming engine.  Play it [here](http://ninemind.github.io/FlappyBird-HTML5). It's very small so zoom in (Ctrl +) in your browser to play it larger.  It also will look blurry in Chrome (except on OSX) since the browser does not yet support "nearest-neighbor"  rendering. Load it up in FireFox to keep the quality high when zooming.﻿ 
 
 Notice
 ======
