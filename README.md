@@ -9,7 +9,7 @@ A FlappyBird remake using the Quintus HTML5 gaming engine.  Play it [here](http:
 
 Notice
 ======
-The visual assets for this game have been extracted from the original game and modified by me for performance.  There is no intention to steal Dong Nguyen's (the original creators) work. This was only an experiment to get myself and others familiarized with the Quintus HTML5 gaming engine.
+The sounds & visuals for this game have been extracted from the original game and modified by me for performance.  There is no intention to steal Dong Nguyen's (the original creators) work. This was only an experiment to get myself and others familiarized with the Quintus HTML5 gaming engine.
 
 Credits
 ======
