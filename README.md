@@ -1,4 +1,4 @@
-FlappyBird-HTML5
+FlappyBird-Quintus
 ================
 
 ![img](https://lh3.googleusercontent.com/-EvAvgWSOhoQ/UyeyfdEDY9I/AAAAAAAAAPs/qqMbJkD5Ciw/w144-h256-no/flappybirds.jpg "FlappyBird gameplay")
