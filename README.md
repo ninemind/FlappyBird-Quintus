@@ -12,4 +12,4 @@ The sounds & visuals for this game have been extracted from the original game an
 Credits
 ======
 * Dong Nguyen for creating the original game.
-* Pascal Rettig for creating the Quintus HTMl5 gaming engine as well as answering my questions on the community page.
+* Pascal Rettig for creating the Quintus HTML5 gaming engine as well as answering my questions on the community page.
