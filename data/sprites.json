@@ -1,15 +1,15 @@
 {
-	"title": {
-		"sx": 114,
-		"sy": 78,
-		"tilew": 89,
-		"tileh": 24
-	},
+    "title": {
+        "sx": 114,
+        "sy": 78,
+        "tilew": 89,
+        "tileh": 24
+    },
     "play": {
         "sx": 114,
-		"sy": 103,
-		"tilew": 52,
-		"tileh": 29
+        "sy": 103,
+        "tilew": 52,
+        "tileh": 29
     },
     "tap": {
         "sx": 52,
@@ -19,9 +19,9 @@
     },
     "floor": {
         "sx": 27,
-		"sy": 0,
-		"tilew": 14,
-		"tileh": 11
+        "sy": 0,
+        "tilew": 14,
+        "tileh": 11
     },
     "yellow_bird": {
         "sx": 0,
